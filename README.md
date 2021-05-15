@@ -1,2 +1,2 @@
-# ⚔ SwordsOfGurrah
-Planning for Swords Of Gurrah. Create issues and plan here.
+# ⚔ Swords Of Gurrah Public
+Report issues and suggestions here for our team to easily track!
