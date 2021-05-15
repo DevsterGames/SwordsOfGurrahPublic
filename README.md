@@ -1,2 +1,2 @@
-# SwordsOfGurrah
-Planning for Swords Of Gurrah
+# ⚔ SwordsOfGurrah
+Planning for Swords Of Gurrah. Create issues and plan here.
